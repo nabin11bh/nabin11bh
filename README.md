@@ -12,8 +12,6 @@
   ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-- 🔐 Exploring Cybersecurity
-
 ## 📫 Contact
-- 📧 Email: nabinbhattarai214@gmail.com 
-- 💼 LinkedIn:[linkedin.com/in/nabin-bhattarai-b07981249](www.linkedin.com/in/nabin-bhattarai-b07981249)
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/nabin-bhattarai-b07981249](https://www.linkedin.com/in/nabin-bhattarai-b07981249)
