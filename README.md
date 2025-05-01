@@ -13,5 +13,5 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 📫 Contact
-- 📧 Email: your.email@example.com  
+- 📧 Email: nabinbhattarai@214gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/nabin-bhattarai-b07981249](https://www.linkedin.com/in/nabin-bhattarai-b07981249)
