@@ -15,5 +15,5 @@
 - 🔐 Exploring Cybersecurity
 
 ## 📫 Contact
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: nabinbhattarai214@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/nabin-bhattarai-b07981249)
