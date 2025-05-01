@@ -1,11 +1,44 @@
-- 👋 Hi, I’m @nabin11bh
-- 👀 I’m interested in development and cyber security.
-- 🌱 I’m currently learning backend development.
-- 💞️ I’m looking to collaborate on projects related to software development and security.
-- 📫 You can reach me through my email at nabinbhattarai214@gmail or via GitHub DMs.
-- ⚡ Fun fact: I love experimenting with different tech stacks and learning new programming languages.
+# 👋 Hi there, I'm Nabin Bhattarai!
 
-<!---
-nabin11bh/nabin11bh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **BSc.CSIT Student** | 💻 **Aspiring Full Stack Developer**  
+🌐 Currently learning the **MERN Stack** with a twist — using **PostgreSQL** instead of MongoDB!
+
+---
+
+## 🚀 About Me
+
+- 🎓 I'm a Computer Science student passionate about web development and cybersecurity.
+- 🛠️ Currently diving deep into the **MERN Stack**:
+  - React ⚛️ for building interactive UIs
+  - Node.js + Express for server-side logic
+  - PostgreSQL 🐘 as my choice for a robust, relational database
+- 🔐 Also exploring the world of **Cybersecurity** alongside development.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL
+- **Others**: Git, GitHub, VS Code, Postman
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(if any)*
+
+---
+
+## 📈 GitHub Stats
+
+![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabinbhattarai&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinbhattarai&layout=compact&theme=tokyonight)
+
+---
+
+_Thanks for visiting my profile!_ 🚀  
