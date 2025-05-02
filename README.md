@@ -15,4 +15,4 @@
   
 ## 📫 Contact
 - 📧 Email: nabinbhattarai@214gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nabin-bhattarai-b07981249](https://www.linkedin.com/in/nabin-bhattarai-nbn)
+- 💼 LinkedIn: [linkedin.com/in/nabin-bhattarai-b07981249](www.linkedin.com/in/nabin-bhattarai-nbn)
