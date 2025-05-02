@@ -12,6 +12,8 @@
   ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ## 📫 Contact
 - 📧 Email: nabinbhattarai@214gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nabin-bhattarai-b07981249](https://www.linkedin.com/in/nabin-bhattarai-b07981249)
+- 💼 LinkedIn: [linkedin.com/in/nabin-bhattarai-b07981249](https://www.linkedin.com/in/nabin-bhattarai-nbn)
