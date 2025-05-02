@@ -11,9 +11,8 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
   ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="nabin-bhattarai-nbn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/nabin-bhattarai-nbn?trk=profile-badge">Nabin Bhattarai</a></div>
-              
 
+  
 ## 📫 Contact
 - 📧 Email: nabinbhattarai@214gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/nabin-bhattarai-b07981249](https://www.linkedin.com/in/nabin-bhattarai-nbn)
