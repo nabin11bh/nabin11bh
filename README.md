@@ -1,7 +1,7 @@
 # Hi, I'm Nabin Bhattarai 👋
 
 🎓 **BSc CSIT Student**  
-💻 **Web Developer | MERN Stack Enthusiast**  
+💻 **Web Developer | Learning MERN Stack **  
 
 ---
 
