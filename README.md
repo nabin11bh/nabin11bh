@@ -32,7 +32,7 @@ I'm a passionate web developer and computer science student specializing in the 
 ### [SewaSathi](https://github.com/nabin11bh/SewaSathi-backend.git)
  A hyperlocal service marketplace platform designed to connect customers with trusted local service providers such as electricians, plumbers, carpenters, and other technicians.
 
-### [EducationPlatform](https://github.com/nabin11bh/Edplatform-Saas.git)
+### [EducationPlatform--SaaS](https://github.com/nabin11bh/Edplatform-Saas.git)
  An online education platform where schools, institutes, and teachers can create their own learning portal.
 
 ---
