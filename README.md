@@ -29,10 +29,10 @@ I'm a passionate web developer and computer science student specializing in the 
 
 ## 🔥 Featured Projects
 
-### [sewasathi](https://github.com/nabin11bh/sewasathi)
+### [sewasathi](https://github.com/nabin11bh/SewaSathi-backend.git)
 A platform designed to connect people with essential services efficiently and securely.
 
-### [edplatform](https://github.com/nabin11bh/edplatform)
+### [EducationPlatform](https://github.com/nabin11bh/Edplatform-Saas.git)
 An educational platform aimed at enhancing online learning experiences for students and teachers.
 
 ---
