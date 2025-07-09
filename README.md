@@ -1,18 +1,41 @@
-# 👋 Hi, I'm Nabin Bhattarai
+<h1 align="center">Hi 👋, I'm Nabin Bhattarai</h1>
+<h3 align="center">BSc.CSIT Student | MERN Stack Developer | Cybersecurity Enthusiast</h3>
 
-🎓 BSc.CSIT Student | 💻 Learning MERN Stack (with PostgreSQL)
+---
 
-- 🌱 Currently focused on full-stack web development  
-- 🛠️ Tech Stack:  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+🌱 I’m currently learning **MERN Stack** and diving deeper into **Cybersecurity**  
+💻 Passionate about building impactful software products and exploring full-stack development  
+🛠 Working on a **Sports Event Management System** and a **Hyperlocal Services Marketplace (SewaSathi)**  
+📚 Interested in backend systems, APIs, and secure architecture  
+📫 Reach me at: **nabin11bh@gmail.com**
 
-  
-## 📫 Contact
-- 📧 Email: nabinbhattarai@214gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nabin-bhattarai-b07981249](www.linkedin.com/in/nabin-bhattarai-nbn)
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, C, Java, SQL  
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS  
+- **Backend:** Node.js, Express.js, PHP  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Postman, VS Code  
+- **Other:** JWT Auth, Redux Toolkit, Sequelize, Mongoose
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabin11bh&show_icons=true&theme=tokyonight" alt="nabin11bh stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabin11bh&theme=tokyonight" alt="nabin11bh streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile/)  
+
+---
+
+_✨ Always learning, always building._
